@@ -1,0 +1,7 @@
+opencv-python
+streamlit
+torch
+torchvision
+ultralytics
+dill
+segmentation-models-pytorch
